@@ -16,7 +16,7 @@
  
  - :seedling: I’m currently learning about Web Development and other programming languages (needed).
  - - 🤔 I’m currently open for an Intern or a new job opportunity.
- - - ⚡ Things i love :- Food and Music🎵 
+ - - ⚡ Things i love :- Movies and Music🎵 
  - - 😄 Pronouns: She/Her.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
