@@ -12,10 +12,10 @@
  
  <br>
  
- I'm Eberechi Nwankudu, a passionate aspiring Frontend developer 💻.
+ I'm Eberechi Nwankudu, Backend intern with a fervent interest in software development, database management, and API design. Actively refining backend expertise while actively seeking opportunities to contribute to open-source projects. Committed to continuous learning and enthusiastic collaboration in tackling intricate challenges and crafting scalable solutions. 💻.
  
- - :seedling: I’m currently learning about Web Development and other programming languages (needed).
- - - 🤔 I’m currently open for an Intern or a new job opportunity.
+ - :seedling: I’m currently learning about Node.js, .Net,  SQL and other programming languages (needed).
+ - - 🤔 I’m currently open for an Internship or a new job opportunity.
  - - ⚡ Things i love :- Movies and Music🎵 
  - - 😄 Pronouns: She/Her.
 
@@ -24,6 +24,8 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,sql,mongodb&theme=light)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>  
 
