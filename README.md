@@ -8,14 +8,14 @@
  
  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
  
- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+ <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 100px></picture>
  
  <br>
  
- I'm Eberechi Nwankudu,Backend intern with a fervent interest in software development, database management, and API design. Actively refining backend expertise while actively seeking opportunities to contribute to open-source projects. Committed to continuous learning and enthusiastic collaboration in tackling intricate challenges and crafting scalable solutions. 💻.
+ I'm Eberechi Nwankudu,Backend intern with a fervent interest in software development, database management, and API design. Actively refining backend expertise while actively seeking opportunities to contribute to open-source projects. Committed to continuous learning and enthusiastic collaboration in tackling intricate challenges and crafting scalable solutions 💻.
  
  - :seedling: I’m currently learning about Node.js, .Net,  SQL and other programming languages (needed).
- - - 🤔 I’m currently open for an Internship or a new job opportunity.
+ - - 🤔 I’m currently open for an Internship or a new job opportunity.   
  - - ⚡ Things i love :- Movies and Music🎵 
  - - 😄 Pronouns: She/Her.
 
