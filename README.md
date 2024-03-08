@@ -12,7 +12,7 @@
  
  <br>
  
- I'm Eberechi Nwankudu, Backend intern with a fervent interest in software development, database management, and API design. Actively refining backend expertise while actively seeking opportunities to contribute to open-source projects. Committed to continuous learning and enthusiastic collaboration in tackling intricate challenges and crafting scalable solutions. 💻.
+ I'm Eberechi Nwankudu,Backend intern with a fervent interest in software development, database management, and API design. Actively refining backend expertise while actively seeking opportunities to contribute to open-source projects. Committed to continuous learning and enthusiastic collaboration in tackling intricate challenges and crafting scalable solutions. 💻.
  
  - :seedling: I’m currently learning about Node.js, .Net,  SQL and other programming languages (needed).
  - - 🤔 I’m currently open for an Internship or a new job opportunity.
@@ -26,8 +26,6 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,sql,mongodb&theme=light)](https://skillicons.dev)
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>  
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
