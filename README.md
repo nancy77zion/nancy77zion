@@ -13,7 +13,7 @@
  I'm Eberechi Nwankudu,Backend intern with a fervent interest in software development, database management, and API design. Actively refining backend expertise while actively seeking opportunities to contribute to open-source projects. Committed to continuous learning and enthusiastic collaboration in tackling intricate challenges and crafting scalable solutions 💻.
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at Tech4dev Women Techsters Fellowship Class of 2022.
+- 💡 Fun fact: I'm currently studying at Tech4dev Women Techsters Fellowship Class of 2024.
 - 🌱 I’m currently learning Node.js, .Net,  SQL and other programming languages.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Developer or Frontend Developer (Intern or Junior level).
