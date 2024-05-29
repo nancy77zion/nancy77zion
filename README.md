@@ -27,7 +27,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,dotnet,mysql,mongodb,postman,sequelize&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,mongodb,postman,sequelize&theme=light)](https://skillicons.dev)
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
